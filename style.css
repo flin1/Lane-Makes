@@ -1,9 +1,9 @@
 .navbar{
   background-color:#ea907a !important;
 }
-#navbarColor01{
-  color:#ea907a !important;
+.nav-link:hover{
+  color:#ffcb74 !important;
 }
-.bg-primary{
-  color:#ea907a !important;
+.nav-link active{
+   color:#ffcb74 !important;
 }
