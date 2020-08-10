@@ -7,3 +7,11 @@
 .nav-link active{
    color:#ffcb74 !important;
 }
+
+.slideshow{
+
+    padding: 100px;
+    display:inline-block;
+    text-align:center;
+    width: 100%;
+}
