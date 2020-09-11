@@ -9,13 +9,18 @@
 	<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootswatch/4.5.0/flatly/bootstrap.min.css" integrity="sha384-mhpbKVUOPCSocLzx2ElRISIORFRwr1ZbO9bAlowgM5kO7hnpRBe+brVj8NNPUiFs"
 	 crossorigin="anonymous">
 	<link href="style.css" rel="stylesheet" type="text/css" />
- 
+
 
 </head>
- <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
- <script src="script.js"></script>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js">
+
+</script>
+<script src="script.js">
+
+</script>
+
 <body>
-   
+
 	<nav class="navbar navbar-expand-lg navbar-dark bg-primary">
 		<a class="navbar-brand" href="#">Make @ Lane</a>
 		<button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarColor01" aria-controls="navbarColor01" aria-expanded="false" aria-label="Toggle navigation">
@@ -109,11 +114,11 @@
 <div class = "slideshow" id = "faqs"> 
 
 <h4>FAQs</h4>
-<h6>What is a makeathon?</h6>
+<strong><h6>What is a makeathon?</h6></strong>
 <p>A makeathon is an 24 hour event where anyone can create anything. A makeathon is meant to inspire and also help teach you new skills. Makeathons are also a good way to build a portfolio and practice creating.</p>
-<h6>Who can attend?</h6>
+<strong><h6>Who can attend?</h6></strong>
 <p> Make@Lane is for high school students located around the Chicagoland area.  </p>
-<h6>When is it?</h6>
+<strong><h6>When is it?</h6></strong>
 <P>Make@Lane will be held on /insert date/</P>
 <h6></h6>
 <p></p>
@@ -134,11 +139,19 @@
 
   </div>
 <div class = "slideshow" id = "contact"> 
-<h4>Contact</h4>
-<img src = "email icon.png"><p> lanemakes@gmail.com</p>
-<img src = "instagram.png"><p> @makeatlane </p>
-<p>@makeatlane</p>
+    <h4>Contact</h4>
+    <img src = "email icon.png"><p> lanemakes@gmail.com</p>
+    <img src = "instagram.png" id = "insta"><a src = "https://www.instagram.com/makeatlane/?hl=en"><p> @makeatlane </p></a>
+    <p>@makeatlane</p>
+    <form>
+      <label for="fname">Email:</label><br>
+      <input type="text" id="fname" name="fname"><br>
+      <label for="lname">Message:</label><br>
+      <input type="text" id="lname" name="lname"><br>
+      <button id = "submit">Submit</button>
+    </form>
   </div>
+  
 <div>
   </body>
 </html>
