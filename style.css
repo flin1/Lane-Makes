@@ -16,8 +16,16 @@
     width: 100%;
 }
 #home{
-  background-image:url("bkgrnd1.png");
+  /*background-image:url("bkgrnd1.png");*/
 }
-
-font-family: 'Big Shoulders Stencil Text', cursive;
-font-family: 'Inconsolata', monospace;
+#subhead{
+  font-family: 'Big Shoulders Stencil Text', cursive;
+}
+#eventdate{
+  font-family: 'Inconsolata', monospace;
+}
+h4{
+  font-family: 'Big Shoulders Stencil Text', cursive;
+}
+/*font-family: 'Big Shoulders Stencil Text', cursive;*/
+/*font-family: 'Inconsolata', monospace;*/
