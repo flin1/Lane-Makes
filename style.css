@@ -20,12 +20,20 @@
 }
 #subhead{
   font-family: 'Big Shoulders Stencil Text', cursive;
-}
+  }
 #eventdate{
   font-family: 'Inconsolata', monospace;
 }
-h4{
+h3{
   font-family: 'Big Shoulders Stencil Text', cursive;
+  font-weight:bold;
+}
+h6{
+  font-family: 'Big Shoulders Stencil Text', cursive;
+  font-weight:bold;
+}
+p{
+  font-family: 'Inconsolata', monospace;
 }
 /*font-family: 'Big Shoulders Stencil Text', cursive;*/
 /*font-family: 'Inconsolata', monospace;*/
