@@ -1,11 +1,14 @@
 .navbar{
   background-color:#ea907a !important;
 }
+.sr-only{
+   color:#ffcb74;
+}
 .nav-link:hover{
   color:#ffcb74 !important;
 }
-.nav-link active{
-   color:#ffcb74 !important;
+.nav-item active{
+   color:#ffcb74;
 }
 
 .slideshow{
@@ -28,11 +31,14 @@ h3{
   font-family: 'Big Shoulders Stencil Text', cursive;
   font-weight:bold;
 }
-h6{
+h4{
   font-family: 'Big Shoulders Stencil Text', cursive;
   font-weight:bold;
 }
 p{
+  font-family: 'Inconsolata', monospace;
+}
+.nav-link{
   font-family: 'Inconsolata', monospace;
 }
 /*font-family: 'Big Shoulders Stencil Text', cursive;*/
