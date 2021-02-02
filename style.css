@@ -59,3 +59,57 @@ img
 }
 /*font-family: 'Big Shoulders Stencil Text', cursive;*/
 /*font-family: 'Inconsolata', monospace;*/
+#fay-profile{
+    background: url(fayprofile.jpg) 50% no-repeat;
+    background-size: cover;
+    height: 150px;
+    width: 150px;
+    margin: auto auto 10px;
+    border-radius: 50%;
+  }
+.profile{
+      display:inline-block;
+      float: center;
+      margin:10px;
+      width: 250px;
+    }
+#ani-profile{
+    background: url(fayprofile.jpg) 50% no-repeat;
+    background-size: cover;
+    height: 150px;
+    width: 150px;
+    margin: auto auto 10px;
+    border-radius: 50%;
+  }
+#arcy-profile{
+    background: url(fayprofile.jpg) 50% no-repeat;
+    background-size: cover;
+    height: 150px;
+    width: 150px;
+    margin: auto auto 10px;
+    border-radius: 50%;
+  }
+#christine-profile{
+    background: url(fayprofile.jpg) 50% no-repeat;
+    background-size: cover;
+    height: 150px;
+    width: 150px;
+    margin: auto auto 10px;
+    border-radius: 50%;
+  }
+#thalia-profile{
+    background: url(fayprofile.jpg) 50% no-repeat;
+    background-size: cover;
+    height: 150px;
+    width: 150px;
+    margin: auto auto 10px;
+    border-radius: 50%;
+  }
+#eliza-profile{
+    background: url(fayprofile.jpg) 50% no-repeat;
+    background-size: cover;
+    height: 150px;
+    width: 150px;
+    margin: auto auto 10px;
+    border-radius: 50%;
+  }
