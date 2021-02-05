@@ -82,7 +82,7 @@ img
     border-radius: 50%;
   }
 #arcy-profile{
-    background: url(fayprofile.jpg) 50% no-repeat;
+    background: url(arcyprofile.jpg) 50% no-repeat;
     background-size: cover;
     height: 150px;
     width: 150px;
@@ -106,6 +106,38 @@ img
     border-radius: 50%;
   }
 #eliza-profile{
+    background: url(elizaprofile.jpg) 50% no-repeat;
+    background-size: cover;
+    height: 150px;
+    width: 150px;
+    margin: auto auto 10px;
+    border-radius: 50%;
+  }
+#nova-profile{
+    background: url(novaprofile.jpg) 50% no-repeat;
+    background-size: cover;
+    height: 150px;
+    width: 150px;
+    margin: auto auto 10px;
+    border-radius: 50%;
+  }
+#matthew-profile{
+    background: url(elizaprofile.jpg) 50% no-repeat;
+    background-size: cover;
+    height: 150px;
+    width: 150px;
+    margin: auto auto 10px;
+    border-radius: 50%;
+  }
+#kath-profile{
+    background: url(elizaprofile.jpg) 50% no-repeat;
+    background-size: cover;
+    height: 150px;
+    width: 150px;
+    margin: auto auto 10px;
+    border-radius: 50%;
+  }
+#schantelle-profile{
     background: url(elizaprofile.jpg) 50% no-repeat;
     background-size: cover;
     height: 150px;
