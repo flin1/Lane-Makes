@@ -147,13 +147,27 @@ img
   }
 #register{
   background-color:#ea907a;
-  
 }
 #signupbutton{
   color:#FFFFFF;
   text-decoration:none;
 }
 #signupbutton:hover{
+  color:#ffcb74;
+  text-decoration:none;
+}
+label{
+  float: left;
+  margin-right: 1em;
+}
+#submit{
+  background-color:#ea907a;
+}
+#contactbutton{
+  color:#FFFFFF;
+  text-decoration:none;
+}
+#contactbutton:hover{
   color:#ffcb74;
   text-decoration:none;
 }
