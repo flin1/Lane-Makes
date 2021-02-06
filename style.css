@@ -149,11 +149,11 @@ img
   background-color:#ea907a;
   
 }
-a{
+#signupbutton{
   color:#FFFFFF;
   text-decoration:none;
 }
-a:hover{
+#signupbutton:hover{
   color:#ffcb74;
   text-decoration:none;
 }
