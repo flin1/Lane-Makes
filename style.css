@@ -145,3 +145,15 @@ img
     margin: auto auto 10px;
     border-radius: 50%;
   }
+#register{
+  background-color:#ea907a;
+  
+}
+a{
+  color:#FFFFFF;
+  text-decoration:none;
+}
+a:hover{
+  color:#ffcb74;
+  text-decoration:none;
+}
