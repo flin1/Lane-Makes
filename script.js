@@ -2,7 +2,7 @@
 var i = 0;
 var txt = 'Make @ Lane';
 var speed = 100;
-
+var fields = {};
 $(document).ready(function(){
  typeWriter();
 });
@@ -13,3 +13,9 @@ $(document).ready(function(){
     setTimeout(typeWriter, speed);
     }
   }
+
+$(document).ready(function(){
+ fields.name = document.getElementById('name');
+ fields.email = document.getElementById('email');
+ fields.message = document.getElementById('message');
+})
